@@ -10,7 +10,6 @@ Uma aplicação de calculadora simples, moderna e responsiva construída com HTM
 - 🧹 **Limpeza de tela:** Botão `C` (Clear) para reiniciar o cálculo.
 - ⌫ **Apagar último caractere:** Botão de backspace para corrigir digitação.
 - 📱 **Design Responsivo:** Funciona perfeitamente em dispositivos móveis e desktops.
-- ⌨️ **Suporte a teclado:** *(Opcional - remova se não implementou)* Permite digitar números e operadores direto pelo teclado.
 
 ---
 

@@ -1,17 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Sansation', sans-serif;
+    color: #fff;
 }
+
 
 .calculadora {
     width: 400px;
-    height: 550px;
+    height: 580px;
     margin: 100px auto;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #e6e6e6;
+    background-color: #000;
 }
 
 h1 {
@@ -30,6 +35,8 @@ h1 {
     text-align: right;
     border: 1px solid #ccc;
     border-radius: 5px;
+    background-color: #fff;
+    color: #000;
 }
 
 .botoes {
@@ -47,6 +54,7 @@ button {
     border-radius: 5px;
     background-color: #f2f2f2;
     cursor: pointer;
+    color: #000;
 }
 
 button:hover {
